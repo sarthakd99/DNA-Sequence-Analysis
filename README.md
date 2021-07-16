@@ -1,1 +1,1 @@
-# Stock-Prediction---TSA
+# DNA Sequence Analysis
